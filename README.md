@@ -37,4 +37,4 @@ Prompt2App is a Next.js-based web application that lets you describe an app idea
      npm run genkit:watch
      ```
 
-## Made with ❤️ by [Tanish](https://github.com/tanishpoddar), [Nidhi](https://github.com/nidhi-nayan) & [Nishant](https://github.com/nishant-codes)
+## Made with ❤️ by [Tanish](https://github.com/tanishpoddar), [Nidhi](https://github.com/nidhi-nayan) & [Nishant](https://github.com/nishant-codess)
